@@ -10,6 +10,7 @@ This mission is mainly practice working on same file at same repository as team 
 
 ## ChangeLog
 * 06-25-2019 Linda - Add README
+* 07-11-2019 Donny - Added comment
 
 
 
